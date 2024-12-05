@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.090,=C:\Users\USU\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.334,=C:\Users\USU\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,=C:\Users\USU\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.143,=C:\Users\USU\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,=C:\Users\USU\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,=C:\Users\USU\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.609,C:\Users\USU\Documents\RAD Studio\Projects\Project1.dproj=D:\MY\INFO\DELPHI\Projects\USU\src\other_srcs\to_site\ToSite.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.802,D:\MY\INFO\DELPHI\Projects\USU\src\other_srcs\to_site_our\ToSite.dproj=D:\MY\INFO\DELPHI\Projects\USU\src\other_srcs\to_site_our\ToSiteOur.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,C:\MY\Projects\USU\Srcs\all_to_site\to_site_sms\ToSiteSMS.dproj=C:\MY\Projects\USU\Srcs\all_to_site\to_site_sms\ToSiteQiwi.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.475,=C:\Users\USU\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.063,=C:\Users\USU\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,C:\Users\USU\Documents\RAD Studio\Projects\Unit1.pas=D:\MY\INFO\DELPHI\Projects\USU\src\other_srcs\to_site\uToSiteMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,C:\Users\USU\Documents\RAD Studio\Projects\Unit1.dfm=D:\MY\INFO\DELPHI\Projects\USU\src\other_srcs\to_site\uToSiteMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.620,C:\USU\soft\schedulers\scheduler_v5_standard_all\scheduler_v5_our\actual_2_apps\only_backup\Scheduler_v5_backup.dproj=C:\USU\soft\schedulers\scheduler_v5_standard_all\scheduler_v5_our\actual_2_apps\only_backup\Scheduler_v5_our.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.485,=C:\MY\Projects\USU\Srcs\all_to_site\to_site_kur\uSMSC.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.691,C:\MY\Projects\USU\Srcs\all_to_site\to_site_kur\ToSiteKur.dproj=C:\MY\Projects\USU\Srcs\all_to_site\to_site_kur\ToSiteSMS.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,D:\USU\other\src\mob\scheduler\Unit1.dfm=D:\USU\other\src\mob\scheduler\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.310,D:\MY\INFO\DELPHI\Projects\USU\src\other_srcs\to_site_qiwi\ToSiteQiwi.dproj=D:\MY\INFO\DELPHI\Projects\USU\src\other_srcs\to_site_qiwi\ToSiteOur.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.067,=C:\USU\soft\schedulers\scheduler_v5_standard_all\scheduler_v5_our\actual_2_apps\1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,C:\MY\Projects\USU\Srcs\all_to_site\to_site_scheduler\ToSiteKur.dproj=C:\MY\Projects\USU\Srcs\all_to_site\to_site_scheduler\Scheduler.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,E:\Soft\mob\scheduler_v5_our\Scheduler.dproj=E:\Soft\mob\scheduler_v5_our\Scheduler_v5_our.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.962,=D:\USU\other\src\mob\scheduler\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,C:\USU\soft\schedulers\scheduler_v5_standard_all\scheduler_v5_our\actual_2_apps\1\Unit1.pas=C:\USU\soft\schedulers\scheduler_v5_standard_all\scheduler_v5_our\actual_2_apps\1\uTodo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,D:\USU\other\src\mob\scheduler\Unit1.pas=D:\USU\other\src\mob\scheduler\uMain.pas</Transaction>
+    <Transaction>2024.12.05 11:10:44.411,D:\Source\_Scheduler\only_backup_standard_git\uSMSC.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
